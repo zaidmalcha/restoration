@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head><link rel="icon" type="image/jpg" href="images/sillycat.jpg">
+        <title>silly</title></head>
+            <body>
+                <form action="index.html" method="post">
+                    <label for="username">username</label>
+                    <input type="text" id="username" minlength="4" maxlength="13" required><br>
+
+                    <label for="asdate">assignment date</label>
+                    <input type="date" id="asdate" required> <br>
+
+                    <label for="title" >title:</label>
+
+                    <label for="mr" >mr.</label>
+                    <input name="aa" type="radio" id="mr">
+
+                    <label for="ms" >ms.</label>
+                    <input name="aa" type="radio" id="ms">
+
+                    <label for="dr" >dr.</label>
+                    <input name="aa" type="radio" id="dr"> 
+                    
+                    <label for="eng" >eng.</label>
+                    <input name="aa" type="radio" id="eng"> <br>
+                    
+                    <label for="email" id="email">email</label>
+                    <input type="email" id="email" placeholder="mohammad@gmail.com" required> <br> 
+                </form>     
+            </body>
+</html>
