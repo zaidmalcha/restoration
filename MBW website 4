@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href="style.css">
+    <head><link rel="icon" type="image/jpg" href="images/sillycat.jpg">
+        <title>silly</title></head>
+            <body>
+                <h1>website #4</h1>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto alias, beatae aspernatur exercitationem unde voluptate laborum magnam corporis, asperiores, iste nobis! Et culpa temporibus cumque quam eos iusto ducimus mollitia.</p>
+            <div class="webs">
+            <a href=""><</a>
+            <a href="" >1</a>
+            <a target="_blank" href="main2.html">2</a>
+            <a target="_blank" href="main3.html">3</a>
+            <a class="active" target="_blank" href="main4.html">4</a>
+            <a target="_blank" href="main5.html">5</a>
+            <a target="_blank" href="main2.html">></a>
+            </div>
+            </body>
+            
+</html>

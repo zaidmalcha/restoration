@@ -1,0 +1,19 @@
+.webs{
+    padding: 10px;
+    border-radius: 5px;
+    color: rgb(177, 165, 165);
+   
+}
+.webs a{padding: 7px;
+    font-weight: bold;
+    font-style: oblique;
+    border-radius: 5px;
+    color: rgb(82, 81, 81);}
+.webs a.active{
+    color: rgb(127, 127, 127);
+    background-color: rgb(43, 36, 235);
+}
+.webs a:hover:not(.active){
+    background-color: gray;
+    padding: 7px;
+}
